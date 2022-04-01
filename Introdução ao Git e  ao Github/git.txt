@@ -1,0 +1,9 @@
+git status
+
+git add . = adicionar itens novos criados na pasta
+
+git commit -m "" = comit para o github com uma frase
+
+git push origin main = nuvem
+
+a
