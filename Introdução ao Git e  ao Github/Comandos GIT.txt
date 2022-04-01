@@ -1,0 +1,19 @@
+Comandos GIT
+
+cd - abrir comando (prompt)
+
+dir - mostrar todas as pastas ou mostrar pastas
+
+cd / = Abre o diretório C
+
+cd +nome da pasta = abre  a pasta selecionada
+
+cd .. = voltar uma pasta
+
+cls = limpar terminal
+
+mkdir +nome pasta = criar uma pasta
+
+echo +nome arquivo > arquivo.txt
+
+del/rmdir
